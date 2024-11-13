@@ -1,0 +1,11 @@
+nav a {
+    margin-right: 30px;
+}
+
+nav a.active{
+    text-decoration: underline;
+    background-color: yellowgreen;
+    padding: 5px 15px;
+    border-radius: 10px;
+    color: white;
+}
